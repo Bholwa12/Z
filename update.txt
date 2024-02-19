@@ -1,0 +1,3 @@
+autoDestroyMyself = false
+updateFiles = true
+updateFileContents = true
